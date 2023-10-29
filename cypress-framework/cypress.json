@@ -1,0 +1,11 @@
+{
+    "fileServerFolder": "cypress",
+    "fixturesFolder": "cypress/fixtures",
+    "integrationFolder": "cypress/integration",
+    "supportFile": "cypress/support/index.js",
+    "testFiles": "**/*.{feature,features}",
+    "ignoreTestFiles": ["*.js"],
+    "viewportWidth": 1440,
+    "viewportHeight": 900
+  }
+  
